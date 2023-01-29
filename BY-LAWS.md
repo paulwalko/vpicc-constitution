@@ -1,6 +1,6 @@
-BY-LAWS OF THE
-VIRGINIA POLYTECHNIC INSTITUTE CAVE CLUB
-Adopted January 20, 1949
+BY-LAWS OF THE  
+VIRGINIA POLYTECHNIC INSTITUTE CAVE CLUB  
+Adopted January 20, 1949  
 As amended January 20, 1950
 
 
@@ -74,7 +74,7 @@ As amended January 20, 1950
         1. Divide the expedition into parties.
         1. Delegate and retract his authority as he sees fit. This shall include the appointment of Party Leaders and other officers which he considers necessary.
         1. Direct the collection of data.
-    i. The duties of the Expedition Commander shall be to
+    1. The duties of the Expedition Commander shall be to
         1. Collect a twentyefive cent equipment fee from each member of the expedition. This money shall be turned over to the Treasurer of the V.P.I. Cave Club.
         1. Collect a fee from.each member of the exepedition the amount of which shall be one cent per mile traveled by the expedition when private transportation is used. This money shall be divided equally among the car drivers.
         1. Collect money for rented transportation and or for food, as may be necessary.
