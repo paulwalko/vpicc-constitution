@@ -9,7 +9,7 @@ As amended January 20, 1950
 1. Members shall be of two kinds: Active members and inactive members. Active members shall be all memebers who are present at one or more of every consecutive meetings. If any member is absent from.any three consecutive meetings he shall be classed as an inactive member at the beginning of the third meeting. An inactive member shall be returned to the status of active member by attending one meeting.
 1. Dues of fifty cents per quarter will be payable the first Friday of each quarter. Any person who is behind in payment of dues will be dropped from membership.
 
-# BY-LAWS II: Officers
+# BY-LAW II: Officers
 1. The officers of this club shall be elected by ballot, from candidates nominated from the floor. A separate ballot shall be voted for each office. A majority shall be necessary to elect. In case there is no majority, the candidate with the lowest number of votes shall be dropped.
 1. The election shall be held at the third regular meeting of the Spring Quarter. The officers elected shall assume their offices at the last regular meeting of the Spring Quarter and shall hold office until the last meeting of the following Spring Quarter.
 1. The duties of the President shall be:
@@ -39,7 +39,7 @@ As amended January 20, 1950
     1. To comply with regulations of the V.P.I. Office of Student Affairs pertaining to finance
     1. To make disbursements when authorized by motions passed by the club and only when so authorized.
 
-# BY-LAWS III: Committees
+# BY-LAW III: Committees
 1. Standing Committees shall be an Equipment and Safety Committee, an Expedition Committee, a Mapping Committee, a Membership and Publicity Committee, a Photography Committee, a Program Comittee and Records and Properties Committee.
 1. It shall be the duty of the Equipment and Safety Committee to:
     1. Have charge of all equipment. Equipment shall be defined as those properties of the club which are used in the accomplishment of the task of any expedition.
@@ -56,7 +56,7 @@ As amended January 20, 1950
     1. Supply the Secretary with a list, each quarter, of those persons who have completed the requirements for membership.
     1. Obtain publicity for the club for the purposes of making the club more widely known and gaining new members.
 1. It shall be the duty of the Photography Committee to:
-    1.  Obtain pictures of caves and of the activities of the club.
+    1. Obtain pictures of caves and of the activities of the club.
     1. Supply the'Records and Properties Comittee with prints of all pictures that the Photography Comittee deems desirable to have on file.
 1. It shall be the duty of the Program.Committee to present talks, lectures, and other entertainment for the club after the business meeting has adjourned.
 1. The Records and Properties Committee shall be composed of the Secretary of the club, the Chairman of the Expedition Committee, the Chairman of the Mapping Committee, together with any other members that the Pres. shall appoint.(the Chairman of the Photography Comittee is also included here) The Chairman of this committee shall be the Secretary of the club. The ViceChairman shall be appointed by the Chairman from among the members of the Committee.
@@ -74,7 +74,7 @@ As amended January 20, 1950
         1. Divide the expedition into parties.
         1. Delegate and retract his authority as he sees fit. This shall include the appointment of Party Leaders and other officers which he considers necessary.
         1. Direct the collection of data.
-    1. The duties of the Expedition Commander shall be to
+    i. The duties of the Expedition Commander shall be to
         1. Collect a twentyefive cent equipment fee from each member of the expedition. This money shall be turned over to the Treasurer of the V.P.I. Cave Club.
         1. Collect a fee from.each member of the exepedition the amount of which shall be one cent per mile traveled by the expedition when private transportation is used. This money shall be divided equally among the car drivers.
         1. Collect money for rented transportation and or for food, as may be necessary.
