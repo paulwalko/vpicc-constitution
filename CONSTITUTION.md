@@ -1,7 +1,7 @@
 CONSTITUTION OF THE  
 VIRGINIA POLYTECHNIC INSTITUTE GROTTO  
 OF THE NATIONAL SPELEOLOGICAL SOCIETY  
-ADOPTED Spring, 1967
+ADOPTED February 9, 1968
 
 
 # Article I: Name
@@ -14,17 +14,11 @@ The purpose of this club shall be to promote interest in, and to advance the sci
 1. Membership is open to NSS members, and to non-NSS members provided that they are students or faculty of VPI.
 1. A trainee (or prospective member) shall be anyone desiring to obtain membership in the club complying with above Qualifications in 1, and willing to uphold the purpose of the club, especially the safety and conservation policies. A trainee must pay a fee of $1.00 per quarter.
 1. Members shall be of two kinds: Active members and inactive members. Active members shall be those members who have paid their current dues. Inactive members shall be students or faculty of VPI who have at one time been active but have not paid current dues.
-1. In order to become an active member, a prospective member shall:
-    1. Sign a statement that:
-        1. He will act in accordance with the constitution, by-laws, and policies established by the club.
-        1. Act in such a way to reflect credit on VPI and between the cave owners and the club.
-    1. Meet such other qualifications for membership as are stated in the by-laws.
+1. In order to become an active member, a prospective member shall meet such qualifications for membership as are stated in the by-laws.
 1. Active members shall have the right to attend all meetings and to vote on all questions. Members shall have access to all club records and files, and may use club equipment.
 1. An inactive member shall have the privelege of attending all meetings, participating in one club trip per quarter, and may be reinstated to active membership upon payment of dues.
-1. [section details below]
-    1. A member may be expelled for specific and willful infractions of the constitution, by-laws, or policies of the club.
-    1. [section details below]
-        1. A motion shall be made by a member, committee, or officer for expulsion stating specific infractions.
+1.  1. A member may be expelled for specific and willful infractions of the constitution, by-laws, or policies of the club.
+    1.  1. A motion shall be made by a member, committee, or officer for expulsion stating specific infractions.
         1. The motion shall be automatically tabled upon a second to the next meeting.
         1. The member shall be given notice of the motion at least three days in advance of the meeting in which the vote is to be taken, and be given ample opportunity to defend himselfbefore the club.
         1. Final action shall be by secret ballot and will require a two thirds majority vote of the club for expulsion.
@@ -61,11 +55,9 @@ The purpose of this club shall be to promote interest in, and to advance the sci
     1. to give report on the financial status of the club at every regular meeting.
     1. to notify the secretary of names of persons who have paid dues. 
     1. to make disbursements when authorized by motions passed by the club and only when so authorized.
-    g. To comply with regulations of the VPI Office of Student Affairs pertaining to finances
-1. [section details below]
-    1. An officer may be impeached for specific and willful infractions of the constitution, by~laws, or policies of the club.
-    1. [section details below]
-        1. A motion shall be made by a member, committee, or other officer for impeachment Stating specific infractions.
+    1. To comply with regulations of the VPI Office of Student Affairs pertaining to finances
+1.  1. An officer may be impeached for specific and willful infractions of the constitution, by~laws, or policies of the club.
+    1.  1. A motion shall be made by a member, committee, or other officer for impeachment Stating specific infractions.
         1. The motion shall automatically be tabled upon a second to the next regular meeting.
         1. The officer shall be given notice of the motion at least three days in advance of the meeting in which the vote is to be taken, and be iven ample opportunity to defend himself before the club.
         1. Final action shall be by secret and will require a two thirds majority vote of the club for impeachment.
@@ -85,7 +77,7 @@ Adviser(s) shall be elected from the faculty subject to the approval of the Virg
 
 # Article VIII: By-laws
 1. The club shall establish a set of by-laws for the purpose of amplifying the constitution and explaining in detail certain sections of the constitution.
-1. The by-lows may be amended as follows:
+1. The by-lows may be amended es follows:
     1. A motion to amend the byhlsws may he introduced by any active member at any meeting at which s quorum is presont.
     1. If the motion is seconded it is automatically tabled.
     1. The secretory must notify the members of the amendment.
