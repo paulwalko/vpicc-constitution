@@ -1,24 +1,25 @@
 BY-LAWS  
 of the  
+Student Branch  
+of the  
 V.P.I. GROTTO  
 THE NATIONAL SPELEOLOGICAL SOCIETY
 
 
 # I. Membership
-1. Membership shall be open to any student, military trainee, or member of the N.S.S. Society residing in this vicinity.
+1. Only undergraduate students of Virginia Polytechnic Institute shall be eligible for membership.
 1. All applications for membership must be in writing or in person, and must be accompanied by an accurately filled application blank.
-1. All applications for membership shall be approved by the council and majority by the Grotto.
-1. Nominations for honarary membership shall be approved by the council and confirmed by the vote of the Grotto. Any member may present a nomination to the council.
-1. All members shall have equal rights, including the right of voting, and shall have equal use of all facilities of the society, unless restricted to rights as under Section X.
+1. Honorary membership shall be extended only to members of the V.P.I faculty and graduate students who are members of the National Society. Nominations for the Honorary membership shall be made by the governing body and approved by the Grotto.
+1. All members shall have equal rights, including the right of voting, and shall have equal use of all facilities of the society, unless restricted to rights as under Section VIII.
 
 # II. Dues -- Assessments
-1. Grotto dues of $.50 a quarter are payable three (3) weeks after the beginning of each quarter, or on admission to the club.
-1. Student national dues of $1.00 a year are payable by January 1. National dues may be prorated for new members.
-1. Assessments to defray expenses of the Grotto shall be made only by a majority vote of approval by members of the Grotto. Such expenses ass those incurred on Trips need not be voted on.
+1. Dues for membership for the National Society shall be $1.00 per year, payable by February 1.
+1. Assessments to defray expenses of the Grotto shall be made only by a majority vote of approval by members of the Grotto. Such expenses ass those incurred on trips need not be voted on.
 
-# III. Governing Body
+
+# III. Governing Body -- Council
 1. The governing board shall be a council made up of the officers, the faculty sponsor, and three persons elected by the Grotto.
-1. It shall be the duties of this council to appoint committee heads, to see that all records are complete and straight, to see that all required reports are made to the National Society, and to plan business meetings. The council shall determine the policies of the Grotto and make recommendations to the Grotto after due investigation.
+1. It shall be the duties of this council to appoint committee heads, to see that all records are complete and straight, to see that all required reports are made to the National Society, and to plan meetings. The council shall determine the policies of the Grotto and make recommendations to the Grotto after due investigation.
 1. It shall be the duety of the president to call a meeting of the counctil at least once a quarter, or more often if necessary. The officers of the Grotto shall server in their respective capacities on the counctil. Minutes of the council meetings shall be open to inspection by the Grotto, but need not be read af the Grotto meetings, although a general report of the council activities shall be rendered the Grotto as a committee report by the secretary at the next Grotto meeting following the council meeting.
 
 # IV. Election
@@ -31,7 +32,6 @@ THE NATIONAL SPELEOLOGICAL SOCIETY
 # V. Faculty Sponsor
 1. The faculty sponsor shall be elected by the Grotto and shall server indefinitely or as long as circumstances permit.
 1. He shall be a member of the national Speological Socity and shall serve as a permanent local secretary and the representative of the N.S.S.
-
 
 # VI. Meetings
 1. During a school term meegins shall be held once every two weeks or more often.
@@ -53,12 +53,13 @@ THE NATIONAL SPELEOLOGICAL SOCIETY
 1. Photographs shall be taken on Grotto sponsored on the condition that they shall be made available to the Society at cost for use in any publication which the Society may issue. Members are required to furnish the Photography committee with one print of each picture made on trips.
 
 # IX. Expulsion of Members
-1. Members may be expelled from the Grotto for the following reasons:
+1. members may be expelled from the Grotto for the following reasons:
     1. Wilful failure to turn in data collected on any Society or Grotto sponsored trip.
     1. Wilful misuse of the Grotto's property.
     1. Wilful disregard of his own or the safety of others on Grotto sponsored trips.
     1. Conduct detrimental to the society.
 1. Any member subject to expulsion may demand a personal hearing before the council.
+
 
 # X. Restriction of the Rights and Privileges
 1. All privileges including the right to vote and the use of Grotto equipment shall be denied members in arrears of dues.
@@ -67,6 +68,7 @@ THE NATIONAL SPELEOLOGICAL SOCIETY
     1. Continuous neglect of safety precautions.
     1. Deliberate destruction of caves.
     1. Delibreate disregard of orders.
+
 
 # XI. Amendment of By-Laws
 1. Amendments to these By-Laws may be made only be a two-thirds majority vote of the members.
