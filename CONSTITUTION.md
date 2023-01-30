@@ -1,7 +1,7 @@
 CONSTITUTION OF THE  
 VIRGINIA POLYTECHNIC INSTITUTE GROTTO  
 OF THE NATIONAL SPELEOLOGICAL SOCIETY  
-ADOPTED October 18, 1968
+ADOPTED February 28, 1969
 
 
 # Article I: Name
@@ -17,6 +17,7 @@ The purpose of this club shall be to promote interest in, and to advance the sci
 1. In order to become an active member, a prospective member shall meet such qualifications for membership as are stated in the by-laws.
 1. Active members shall have the right to attend all meetings and to vote on all questions. Members shall have access to all club records and files, and may use club equipment.
 1. An inactive member shall have the privelege of attending all meetings, participating in one club trip per quarter, and may be reinstated to active membership upon payment of dues.
+1. Associate membership shall be restricted to those who have no other connection with VPI other than through the Grotto. Associate membership shall be open to members of the National Speleological Society, former active members who are no longer connected with VPI, and others who desire affiliation with the Grotto. Associate members shall have all priviliges of active membership except for voting and the holding of office.
 1.  1. A member may be expelled for specific and willful infractions of the constitution, by-laws, or policies of the club.
     1.  1. A motion shall be made by a member, committee, or officer for expulsion stating specific infractions.
         1. The motion shall be automatically tabled upon a second to the next meeting.
@@ -58,6 +59,8 @@ The purpose of this club shall be to promote interest in, and to advance the sci
     1. To comply with regulations of the VPI Office of Student Affairs pertaining to finances
 1.  1. An officer may be impeached for specific and willful infractions of the constitution, by~laws, or policies of the club.
     1.  1. A motion shall be made by a member, committee, or other officer for impeachment Stating specific infractions.
+1.  1. An officer may be impeached for specific and willful infractions of the constitution, by~laws, or policies of the club.
+    1.  1. A motion shall be made by a member, committee, or other officer for impeachment Stating specific infractions.
         1. The motion shall automatically be tabled upon a second to the next regular meeting.
         1. The officer shall be given notice of the motion at least three days in advance of the meeting in which the vote is to be taken, and be iven ample opportunity to defend himself before the club.
         1. Final action shall be by secret and will require a two thirds majority vote of the club for impeachment.
@@ -67,9 +70,10 @@ The purpose of this club shall be to promote interest in, and to advance the sci
 Adviser(s) shall be elected from the faculty subject to the approval of the Virginie Polytechnic Institute.
 
 # Article VI: Meeting and Quorum
-1. To constitute a meeting for transaction of business, one-half of the active membership must be present or represented by proxy.
-1. One regular meeting shall be scheduled on every Friday during the three regular quarters at V.P.I. except when the president shall cancel the meeting.
-1. Special meetings may be called at anytime by the president, and must be called by him upon petition of 10% of the active members.
+1. To constitute a meeting for transaction of business, one-half of the aactive membership residing within Montgomery County must be present orrepresented by proxy.
+1. Active members residing without this boundary, and not present or represented by proxy, shall be considered inactive members for purposes bf quorum counts and determination of two-thirds votes of approval.
+1. The presence of a member from without Montgomery County, or his proxy, at a meeting shall include him in the count of active members.
+1. The secretary shall be notified of each proxy before a vote. Blanket or continuous proxies shall not he held.
 
 # Article VII: Committees
 1. Standing Committees shall be an Equipment Committee, a Safety Committee, a Membership and Publicity Committee, and a Project and Program Committee, and a Conservation Committee, and a Supplies Committee.
@@ -87,4 +91,5 @@ Adviser(s) shall be elected from the faculty subject to the approval of the Virg
 1. Amendments to this Constitution are submitted by a motion and a second, and then tabled.
 1. A submitted amendment must be voted on within three weeks after its proposal, and all members of the club must be specifically notified of the date of the vote and the nature of the amendment.
 1. A two-thirds majority vote of all active members shall be required for adoption of any amendment.
+1. The Student Activities Committee of VPI must be notified of any amendment to this document upon its acceptance by the membership of this Grotto.
 

@@ -1,5 +1,5 @@
 BY-LAWS VPI CAVE CLUB  
-Adopted October 18, 1968
+Adopted February 28, 1969
 
 
 # By-law 1: Safety Code
@@ -19,7 +19,7 @@ Adopted October 18, 1968
         1. Gloves, heavy boots or shoes, and heavy clothes are advisable.
     1. Equipment to be used in vertical caves should meet these standards:
         1. A chest safety shall consist of: One nylon safety belt of 3,000 lbs. minimum test, or equivalent; one carabiner of commercial manufacture; and one safety prussik made from manila rope of not less than 3/8 inch diameter and in good condition, or equivalent to 3/8 inch in test.
-        1. One set of foot prussiks of not less than l/4 inch nylon A or 3/8 inch manila rope.
+        1. One set of foot prussiks of not less than 1/4 inch nylon A or 3/8 inch manila rope.
         1. One swiss seat of not less than 1500 lbs. minimum test.
     1. Necessary vertical gear may vary from cave to cave. Every individual shall have the minimum equipment necessary for the particular cave. Individual vertical gear shall conform to the standards above.
 1. Procedure
@@ -38,10 +38,10 @@ Adopted October 18, 1968
     1. Test all prussiks before using
     1. Test all rigging
     1. Test all belay rigging and positions
-    1. Where not specified above, testing is done according to specifications stated by the safety committee
+    1. Where not specified above, testing is done according to specifications stated by the Safety Committee
 
 # By-law II: Membership
-1. Eligible. Membership is open to NSS members, and to non~NSS members provided that they are students or faculty of VPI.
+1. Eligible. Membership is open to NSS members, and to non-NSS members provided that they are students or faculty of VPI.
 1. To be qualified as a full member of the club, a trainee must:
     1. Remain a trainee for at least one quarter during which time he spends 20 hours and at least 3 trips, and submit a written report on at least one of these trips.
     1. Have working knowledge of a carbide lamp
@@ -51,13 +51,14 @@ Adopted October 18, 1968
     1. Know how to tie: a bowline, bowline on a coil, prussik, fisherman's knot, butterfly, clove hitch, and sheet bend
     1. Complete satisfactorily a comprehensive general information quiz
     1. Meet a requirement of the Conservation Committee
-    1. Be endorsed by a member in good standing
-    1. Be approved by a two-thirds vote of the members
+    1. Be endorsed by a member in good standing.
+    1. Be approved by a two-thirds vote of the active members
 
 # By-law III Dues
-1. Payment.
+1. Payment.  
     Dues for members and trainees shall be $2.00 per quarter, and $1.00 per summer session
-1. Non-payment. Any member not paying dues by the third meeting of a Quarter shall be dropped to inactive status.
+1. Non-payment.  
+    Any member not paying dues by the third meeting of a Quarter shall be dropped to inactive status.
 
 # By-law IV: Committees
 1. It shall be the duty of the Equipment Committee to:
@@ -83,22 +84,22 @@ Adopted October 18, 1968
     1. Plan and co-ordinate club projects, special activities, and social functions
     1. Plan and meke arrangements for programs to be presented periodically at the regular meetings.
 1. It shall be the duty of the Supplies Committee to:
-    1. Buy equipment for sale to the Club members and trainees out of a special revolving fund established for this purpose.
-    1. Ask Club approval for each line of equipment to be stocked. Once approved, each line of equipment shall be maintained by purchases from the fund.
-    1. Make this equipment available for sale at all regular meeting
-    1. The fund shall be increased by quarterly appropriations, until such time that it becomes self-substaining. The fund shall be allowed to draw upon the Club treasury in the form of loans when additional funds become necessary.
-    1. The Supplies Committee shall notify the Treasurer of all transactions, and shall submit a quarterly report to him.
+    1. Buy equipment for sale to the club members and trainees out of a special revolving fund established for this purpose.
+    1. Ask club approval for each line of equipment to be stocked. Once approved, each line of equipment shall be maintained by purchases from the fund.
+    1. Make equipment available for sale at all regular meetings.
+    1. The fund shall be increased by quarterly appropriations until such time that it becomes self-sustaining. The fund shall be allowed to draw upon the club treasury in the form of loans when additional funds become necessary.
+    1. The Supplies Committee shall notify the treasurer of all transactions, and shall submit a quarterly report to him.
 
 # By-law V: Club Files
 1. Maintainance.  
     The club files shall be maintained by the President when he shall be on campus. when not on campus he shall appoint a person on campus to keep and maintain the files.
-1. Substance.  The club files shall consist of cave maps, trip reports, meeting minutes, and cave related publications.
+1. Substance. The club files shall consist of cave maps, trip reports, meeting minutes, and cave related publications.
 
 # By-law VI: Club Trips
 1. A club trip shall be one that has at least one club member and is properly signed out.
 1. Only club trips can be used by trainees to meet the qualifications for membership.
 
 # By-law VII: Club Savings
-1. The Club shall establish a Savings Fund to be placed in an interest-drawing savings account.
-1. The Savings Fund shall be drawn upon only for investments of long range importance to the Club.
+1. The club shall establish a savings fund to be placed in an interest-drawing savings account.
+1. The savings fund shall be drawn upon only for investments of longerange importance to the club
 1. The savings fund shall be increased by quarterly appropriations.
