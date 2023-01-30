@@ -1,5 +1,5 @@
 BY-LAWS VPI CAVE CLUB  
-Adopted February 9, 1968
+Adopted October 18, 1968
 
 
 # By-law 1: Safety Code
@@ -82,6 +82,12 @@ Adopted February 9, 1968
 1. It shall be the uty of the Project and Program Committee to:
     1. Plan and co-ordinate club projects, special activities, and social functions
     1. Plan and meke arrangements for programs to be presented periodically at the regular meetings.
+1. It shall be the duty of the Supplies Committee to:
+    1. Buy equipment for sale to the Club members and trainees out of a special revolving fund established for this purpose.
+    1. Ask Club approval for each line of equipment to be stocked. Once approved, each line of equipment shall be maintained by purchases from the fund.
+    1. Make this equipment available for sale at all regular meeting
+    1. The fund shall be increased by quarterly appropriations, until such time that it becomes self-substaining. The fund shall be allowed to draw upon the Club treasury in the form of loans when additional funds become necessary.
+    1. The Supplies Committee shall notify the Treasurer of all transactions, and shall submit a quarterly report to him.
 
 # By-law V: Club Files
 1. Maintainance.  
@@ -91,3 +97,8 @@ Adopted February 9, 1968
 # By-law VI: Club Trips
 1. A club trip shall be one that has at least one club member and is properly signed out.
 1. Only club trips can be used by trainees to meet the qualifications for membership.
+
+# By-law VII: Club Savings
+1. The Club shall establish a Savings Fund to be placed in an interest-drawing savings account.
+1. The Savings Fund shall be drawn upon only for investments of long range importance to the Club.
+1. The savings fund shall be increased by quarterly appropriations.

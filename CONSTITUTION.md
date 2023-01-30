@@ -1,7 +1,7 @@
 CONSTITUTION OF THE  
 VIRGINIA POLYTECHNIC INSTITUTE GROTTO  
 OF THE NATIONAL SPELEOLOGICAL SOCIETY  
-ADOPTED February 9, 1968
+ADOPTED October 18, 1968
 
 
 # Article I: Name
@@ -72,7 +72,7 @@ Adviser(s) shall be elected from the faculty subject to the approval of the Virg
 1. Special meetings may be called at anytime by the president, and must be called by him upon petition of 10% of the active members.
 
 # Article VII: Committees
-1. Standing Committees shall be an Equipment Committee, a Safety Committee, a Membership and Publicity Committee, and a Project and Program Committee, and a Conservation Committee.
+1. Standing Committees shall be an Equipment Committee, a Safety Committee, a Membership and Publicity Committee, and a Project and Program Committee, and a Conservation Committee, and a Supplies Committee.
 1. Special committees may be established by the President or by action of the club.
 
 # Article VIII: By-laws
