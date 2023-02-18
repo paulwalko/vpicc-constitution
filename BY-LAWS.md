@@ -1,5 +1,5 @@
 BY-LAWS VPI CAVE CLUB  
-Adopted February 23, 1970
+Adopted September 17, 1971
 
 
 # By-law 1: Safety Code
