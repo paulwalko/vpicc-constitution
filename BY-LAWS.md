@@ -1,8 +1,10 @@
-BY-LAWS VPI CAVE CLUB  
-Adopted May, 1975
+STANDARD OPERATING PROCEDURES OF THE  
+VIRGINIA POLYTECHNIC INSTITUTE GROTTO  
+OF THE NATIONAL SPELEOLOGICAL SOCIETY  
+ADOPTED November, 1977
 
 
-# By-law 1: Safety Code
+# Standard Operating Procedure 1: Safety Code
 1. General
     1. Never explore alone, three people constitute a safe party.
     1. Everyone participating in a trip should be physically and mentally capable of caving on that type of trip.
@@ -43,38 +45,36 @@ Adopted May, 1975
     1. Test all belay rigging and positions.
     1. Where not specified above, testing is done according to specifications stated by the Safety Committee
 
-# By-law II: Membership
+# Standard Operating Procedure II: Membership
 1. Eligibility.  
     Membership is open to NSS members, former active Grotto members and non-NSS members provided the latter are students, faculty, or staff of VPI.
 1. To be qualified as a active member of the club, a trainee must:
-    1. Remain a trainee for at least one quarter during which time he spends 40 hours in a cave on at least 6 club trips, and submit a written report on at least one of these trips.
+    1. Remain a trainee for at least one quarter during which time he spends 25 hours in a cave on at least 6 club trips.
     1. Have a working knowledge of a carbide lamp.
-    1. Demonstrate elementary climbing skills.
+    1. Demonstrate elementary skills.
     1. Have a working knowledge of belaying methods as outlined in the MIT training manual
     1. Have a working knowledge of rappelling and prussiking, with knots, in a cave.
     1. Know how to tie: a bowline, bowline on a coil, prussik, fisherman's knot, butterfly, clove hitch, sheet bend, square knot, and figure of eight knot.
     1. Complete satisfactorily a comprehensive general information quiz.
-    1. Meet a requirement of the Conservation Committee.
     1. Be endorsed by an active member in good standing.
     1. Be approved by a two-thirds vote of the active membership. (See Article VI b)
 1. To be qualified as an associate member of the club, an NSS member who has never been an active Grotto member must:
     1. Be endorsed by an active member in good standing, and
     1. Be approved by a two-thirds vote of the active membership (see Article VI b).
 
-# By-law III Dues
-1. Dues for members and trainees who are students, staff, or faculty of VPI shall be $2.50 per quarter. Dues for associate members who are not students, staff, or faculty of VPI shall be $6.00 per year. Dues for life membership shall be $100. Life membership dues shall be payable in installments.
+# Standard Operating Procedure III Dues
+1. Dues for members and trainees who are students, staff, or faculty of VPI shall be $2.50 per quarter. Dues for associate members who are not students, staff, or faculty of VPI shall be $6.00 per year. Dues for life membership shall be $100. Life membership dues shall be payable in installments of at least $25.00 of balance of payment. Life membership shall be granted upon completion of payment. Life membership dues are separate and distinct from all other dues.
 1. Non-payment  
     Any active member not paying dues by the third meeting of a quarter shall be dropped to inactive status. Any associate member not paying dues shall loose that status, it being regained upon payment of current dues.
 
-# By-law IV: Committees
+# Standard Operating Procedure IV: Committees
 1. It shall be the duty of the Equipment Committee to:
     1. Maintain club equipment.
-    1. Maintain the club storeroom and control the dispersal of club equipment. Equipment shall not be released to unqualified trips as specified in the Constitution and By-Laws.
+    1. Maintain the club storeroom and control the dispersal of club equipment. Equipment shall not be released to unqualified trips as specified in the Constitution and Standard Operating Procedures.
     1. Check the condition of club equipment and make sure that it is in safe condition.
     1. Recommend, when necessary, the purchase of new equipment.
     1. Maintain on hand an adequate supply of carbide.
 1. It shall be the duty of the Safety Committee to:
-    1. Conduct the new member training program.
     1. Encourage safe caving practices and recommend disciplinary action where necessary.
     1. Present periodic programs on current safety practices.
 1. It shall be the duty of the Publicity Committee to:
@@ -97,22 +97,22 @@ Adopted May, 1975
     1. The fund shall be increased by quarterly appropriations until such time that it becomes self-sustaining. The fund shall be allowed to draw upon the club treasury in the form of loans when additional funds become necessary.
     1. The Supplies Committee shall notify the treasurer of all transactions, and shall submit a quarterly report to him.
 
-# By-law V: Club Files
+# Standard Operating Procedure V: Club Files
 1. Maintenance  
     The president shall appoint a person to keep and maintain the files.
 1. Substance  
     The club files shall consist of cave maps, trip reports, meeting minutes, and cave related publications.
 
-# By-law VI: Club Trips
+# Standard Operating Procedure VI: Club Trips
 1. A club trip shall be one that has at least one club member and is properly signed out.
 1. Only club trips can be used by trainees to meet the qualifications for membership.
 
-# By-law VII: Club Savings
+# Standard Operating Procedure VII: Club Savings
 1. The club shall establish a savings fund to be placed in an interest-drawing savings account.
 1. The savings fund shall be drawn upon only for investments of long-range importance to the club.
 1. The savings fund shall be increased by quarterly appropriations when possible.
 
-# By-Law VIII: Club Publication
+# Standard Operating Procedure VIII: Club Publication
 1. The Grotto shall publish a periodic journal to advertise Grotto projects, trips, and other activities. It shall further contain material of scientific and technical interest to the caving world.
 1. The title of this publication shall be The Tech Troglodyte.
 1. The format and journalistic style shall be set by the editor appointed to the post by the president of the Grotto.
