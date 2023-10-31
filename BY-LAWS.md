@@ -1,7 +1,7 @@
 BY LAWS OF THE  
 VIRGINIA POLYTECHNIC INSTITUTE GROTTO  
 OF THE NATIONAL SPELEOLOGICAL SOCIETY  
-ADOPTED November, 1992
+ADOPTED Feburary 5, 1993
 
 
 # Safety Code
@@ -39,9 +39,9 @@ ADOPTED November, 1992
     To be qualified as a full or associate member of the club, a prospective member must:
     1. Read and understand the constitution and by-laws of the Cave Club.
     1. Remain a prospective member for at least 10 weeks during which time he/she spends 40 hours underground on at least 6 trips on which at least one full or associate member of present.
-    1. Demonstrate a working knowledge of a carbide lamp.
+    1. Demonstrate a working knowledge of a carbide lamp and pass a lamp test.
     1. Demonstrate elementary climbing skills in a cave.
-    1. Demonstrate a working knowledge of belaying methods.
+    1. Demonstrate a working knowledge of belaying methods, including a cable ladder belay.
     1. Demonstrate a working knowledge of changeover from descending ot ascending and ascending to descending.
     1. Demonstrate a working knowledge of rappelling and prussiking, with knots, in a cave.
     1. Know how to tie and explain the uses of: bowling, mountaineering bowline (double bowline), bowline on a bight, bowline on a coil, figure of "8", figure of "8" on a bight, butterfly, square, overhand, double-tuck sheet bend, water knot, helical, prussik, double fisherman's. (Knot names taken from On Rope by Alan Padgett)
@@ -49,6 +49,8 @@ ADOPTED November, 1992
     1. Be endorsed by a full or associate member in good standing.
     1. Write a trip report for publication in the Tech Troglodyte.
     1. Be approved by a 2/3 majority vote of the full membership.
+    1. Be able to tie a seat with webbing, to the Vice-President's satisfaction.
+    1. Demonstrate how to rig and pad a rope correctly in a cave.
 # Disciplinary Action
 1. Any prospective, associate, or full member who has allegedly committed an infraction of the VPI Cave Club Constitution, or by-laws, or upon recommendation of the Safety and Techniques Committee, may face possible disciplinary action in the form of a reprimand, suspension, or expulsion, as defined below.
 1. 
