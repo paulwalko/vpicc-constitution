@@ -117,7 +117,7 @@ If desired, any person may be elected as an advisor to the club by a simple majo
 # Meeting and Quorum
 1.  1. To constitute a meeting for the transaction of business, a quorum shall constitute one half (1/2) of the full membership either in person or represented by proxy.
     1. The secretary shall be notified of each proxy before a vote. Blanket or continuous proxies shall not be held.
-    1. meetings shall be held Fridays at 7:00 p.m. during the academic year.
+    1. meetings shall be held during the academic year.
     1. Meetings shall comply with Robert's Rules of Order.
 
 # Dues
