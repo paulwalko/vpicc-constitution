@@ -1,7 +1,7 @@
 BY LAWS OF THE  
 VPI CAVE CLUB  
-OF THE NATIONAL SPELEOLOGICAL SOCIETY  
-ADOPTED December 5, 2014
+STUDENT GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY  
+ADOPTED March 12, 2021
 
 
 # Safety Code
@@ -39,14 +39,13 @@ ADOPTED December 5, 2014
     The VPI Cave Club training program shall develop educated cavers consistent with Article II of the Constitution. The training program shall develop the basic skills to be safe and self-reliant underground. To be qualified as a full or associate member of the club, a prospective member must:
     1. Read and understand the constitution and by-laws of the Cave Club.
     1. Remain a prospective member for at least 10 weeks during which time he/she spends 40 hours underground on at least 6 trips on which at least one full or associate member of present.
-    1. Demonstrate a working knowledge of a carbide lamp.
     1. Demonstrate elementary climbing skills in a cave.
     1. Demonstrate a working knowledge of belaying methods.
     1. Be able to tie a seat harness with webbing.
     1. Demonstrate a working knowledge of changeover from descending to ascending and ascending to descending.
     1. Demonstrate a working knowledge of rappelling and climbing rope in a cave, and demonstrate a working knowledge of climbing on knots.
     1. Demonstrate how to rig and pad a rope correctly.
-    1. Know how to tie and explain the uses of: bowline, mountaineering bowline (double bowline), bowline on a bight, bowline on a coil, figure 8, figure 8 on a bight, double figure 8, alpine butterfly, square knot, overhand knot, Münter hitch, water knot, helical, prusik, double fisherman's bend. (Knot names taken from On Rope by Alan Padgett)
+    1. Know how to tie and explain the uses of: bowline, mountaineering bowline (double bowline), bowline on a bight, bowline on a coil, figure 8, figure 8 on a bight, double figure 8, alpine butterfly, square knot, overhand knot, Münter hitch, water knot, helical, prusik, double fisherman's bend.
     1. Complete satisfactory a comprehensive general information quiz.
     1. Be endorsed by a full or associate member in good standing.
     1. Submit to the editor a suitable article for publication in the Tech Troglodyte allowing reasonable time for review and revision.
@@ -57,7 +56,7 @@ ADOPTED December 5, 2014
     1. Levels of disciplinary action:
         1. Reprimand: A reprimand shall be the lowest level of disciplinary action and shall be noted in the minutes.
         1. Suspension: A suspension is the intermediate level of disciplinary action. A suspension shall be reduction of an associate or full member's rights to those equivalent to prospective member status. A prospective member cannot complete any membership requirements while on suspension. The time period for a suspension shall be fifteen (15) weeks after which time the previous membership status is reinstated.
-        1. Expulsion: An expulsion is the highest and most severe level of disciplinary action. An expelled person is ejected from the club and club functions and current dues are returned. Previously completed membership requirements are null and void. A person expelled from the club can only rejoin the club by being allowed to restart the training program by 2/3 majority vote by secret ballot.
+        1. Expulsion: An expulsion is the highest and most severe level of disciplinary action. An expelled person is ejected from the club and club functions and current dues are returned. Previously completed membership requirements are null and void. A person expelled from the club shall not be allowed to restart the training program or regain any level of membership in the club.
     1. Procedure:
         1. A member of any class may bring a compliant for disciplinary action to the president.
         1. The president shall convene the Executive Committee to evaluate the complaint.
@@ -103,18 +102,20 @@ ADOPTED December 5, 2014
     1. To notify faculty advisors of proposed amendments to the Constitution or the By-Laws.
     1. To make note of proxy votes.
     1. To provide timely notifications to club members of issues as specified by the constitution or by-laws.
-1. 1. An officer may be impeached for specific and willful infractions of the Constitution, the By-Laws, or the policies of the club.
-    1. 1. A motion to impeach stating specific infractions shall be made by a member, committee, or other officer.
-    1. The motion shall be automatically tabled upon a "second" to the next regular meeting.
-    1. The officer shall be given notice of the motion at least three (3) days in advance of the meeting in which the vote is to be taken, and be given ample opportunity to present a defense before the club.
-    1. Final action shall be by secret written ballot and will require a 2/3 majority vote of the full membership for removal from office.
+1. Impeachment
+    1. An officer may be impeached for specific and willful infractions of the Constitution, the By-Laws, or the policies of the club.
+    1. Process:
+        1. A motion to impeach stating specific infractions shall be made by a member, committee, or other officer.
+        1. The motion shall be automatically tabled upon a "second" to the next regular meeting.
+        1. The officer shall be given notice of the motion at least three (3) days in advance of the meeting in which the vote is to be taken, and be given ample opportunity to present a defense before the club.
+        1. Final action shall be by secret written ballot and will require a 2/3 majority vote of the full membership for removal from office.
 1. Officers who are full members at the time of election shall assume their duties at the close of elections. Officers who are associate members at the time of election shall assume their duties at the first meeting of the fall semester. All officers shall serve until the elections of the following spring. If any office is left vacant by the election of an associate member, the president shall appoint an officer pro tem from among the full members available.
 
 # Advisor
 If desired, any person may be elected as an advisor to the club by a simple majority of votes from full membership.
 
 # Meeting and Quorum
-1.  1. To constitute a meeting fo the transaction of business, a quorum shall constitute one half (1/2) of the full membership either in person or represented by proxy.
+1.  1. To constitute a meeting for the transaction of business, a quorum shall constitute one half (1/2) of the full membership either in person or represented by proxy.
     1. The secretary shall be notified of each proxy before a vote. Blanket or continuous proxies shall not be held.
     1. meetings shall be held Fridays at 7:00 p.m. during the academic year.
     1. Meetings shall comply with Robert's Rules of Order.
@@ -129,7 +130,7 @@ Dues for prospective members, full members and associate members shall be ten do
     1. Present periodic programs on current safety practices.
     1. Submit a written report to the president upon request.
     1. Oversee maintenance and inventory of club rescue gear.
-    1. The Safety and Techniques Committee shall consist of the safety chairman, the president, the vice-president, former safety chairmen, former presidents and vice presidents, and anyone that the president or safety chairman deems necessary.
+    1. The Safety and Techniques Committee shall consist of the safety chairman, the president, the vice-president, former safety chairmen, former presidents, and vice presidents, and anyone that the president or safety chairman deems necessary.
 
 1. It shall be the duty of the Publicity Committee to:
     1. Communicate with incoming freshman and the student body on the availability and activities of the club.

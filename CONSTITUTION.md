@@ -1,7 +1,7 @@
 CONSTITUTION OF THE  
 VPI CAVE CLUB  
-OF THE NATIONAL SPELEOLOGICAL SOCIETY  
-ADOPTED December 5, 2014
+STUDENT GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY  
+ADOPTED March 12, 2021
 
 
 # Article I: Name
@@ -24,6 +24,12 @@ The purpose of this club shall be to promote interest in, and to advance the sci
 # Article IV: Officers
 1. The elected officers of this club shall be: president, vice-president, secretary, and treasurer. Election procedures are defined in the By-Laws.
 1. All elected officers must be full or associate members at the time of the election and must be enrolled as full-time students at VPI&SU throughout the duration of their term. If an officer is not an NSS member, membership must be applied for, within one month of the election.
+1. In the event of extenuating circumstances, including but not limited to events preventing meetings, caving, training of new members, or other club activities, the voting membership of the club shall have the option to declare a state of emergency by 2/3rds majority vote. The purpose of the state of emergency will be to allow the club to temporarily suspend portions of the bylaws that prevent normal operations of the club because of the conditions of the emergency.Upon the end of the state of emergency a special election will take place at the next regular meeting in order to fill cave club officer positions with traditionally eligible members. Should the vote to end the state of emergency fall at a time when meetings are not happening, the vote will occur at the next meeting of the club, and the state of emergency will extend until it is voted upon at that said meeting. During a state of emergency the following policies will go into effect:
+    1. Any full, student member may hold office regardless of part-time or full-time status.
+    1. In the event that there are not enough willing student members to hold office, the club may elect non-student associate and full members, as defined in Article III, Section 1.b to take on the responsibilities of the Vice President and/or Secretary as acting officers
+    1. A state of emergency has no effect on a member’s voting status, except,
+    1. In the event that fewer than 3 members are eligible to vote, associate members will be allowed to vote to approve new members.
+    1. During a state of emergency the items herein supersede any and all conflicting bylaws or directives
 
 # Article IV: Committees
 1. Standing committees shall be: the Equipment Committee, Safety and Techniques Committee, Publicity Committee, Project and Program Committee, Conservation Committee, Supplies Committee and Executive Committee.
