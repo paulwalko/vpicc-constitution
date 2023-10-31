@@ -1,7 +1,7 @@
 BY LAWS OF THE  
 VPI CAVE CLUB  
 STUDENT GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY  
-ADOPTED March 12, 2021
+ADOPTED October 20, 2023
 
 
 # Safety Code
@@ -45,7 +45,7 @@ ADOPTED March 12, 2021
     1. Demonstrate a working knowledge of changeover from descending to ascending and ascending to descending.
     1. Demonstrate a working knowledge of rappelling and climbing rope in a cave, and demonstrate a working knowledge of climbing on knots.
     1. Demonstrate how to rig and pad a rope correctly.
-    1. Know how to tie and explain the uses of: bowline, mountaineering bowline (double bowline), bowline on a bight, bowline on a coil, figure 8, figure 8 on a bight, double figure 8, alpine butterfly, square knot, overhand knot, Münter hitch, water knot, helical, prusik, double fisherman's bend.
+    1. Know how to tie and explain the uses of: bowline, bowline on a bight, bowline on a coil, figure 8, figure 8 on a bight, double figure 8, alpine butterfly, square knot, overhand knot, Münter hitch, water knot, helical, prusik, double fisherman's bend.
     1. Complete satisfactory a comprehensive general information quiz.
     1. Be endorsed by a full or associate member in good standing.
     1. Submit to the editor a suitable article for publication in the Tech Troglodyte allowing reasonable time for review and revision.
