@@ -1,3 +1,10 @@
+---
+geometry: margin=2cm
+title: BY LAWS
+toc: true
+---
+\newpage{}
+
 BY LAWS OF THE  
 VPI CAVE CLUB  
 STUDENT GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY  
@@ -38,7 +45,7 @@ ADOPTED October 20, 2023
 1.  Training Program:  
     The VPI Cave Club training program shall develop educated cavers consistent with Article II of the Constitution. The training program shall develop the basic skills to be safe and self-reliant underground. To be qualified as a full or associate member of the club, a prospective member must:
     1. Read and understand the constitution and by-laws of the Cave Club.
-    1. Remain a prospective member for at least 10 weeks during which time he/she spends 40 hours underground on at least 6 trips on which at least one full or associate member of present.
+    1. Remain a prospective member for at least 10 weeks during which time he/she spends 40 hours underground on at least 6 trips on which at least one full or associate member if present.
     1. Demonstrate elementary climbing skills in a cave.
     1. Demonstrate a working knowledge of belaying methods.
     1. Be able to tie a seat harness with webbing.
@@ -50,6 +57,7 @@ ADOPTED October 20, 2023
     1. Be endorsed by a full or associate member in good standing.
     1. Submit to the editor a suitable article for publication in the Tech Troglodyte allowing reasonable time for review and revision.
     1. Be approved by a 2/3 majority vote of the full membership.
+
 # Disciplinary Action
 1. Any prospective, associate, or full member who has allegedly committed an infraction of the VPI Cave Club Constitution, or by-laws, or upon recommendation of the Safety and Techniques Committee, may face possible disciplinary action in the form of a reprimand, suspension, or expulsion, as defined below.
 1. 
@@ -58,15 +66,16 @@ ADOPTED October 20, 2023
         1. Suspension: A suspension is the intermediate level of disciplinary action. A suspension shall be reduction of an associate or full member's rights to those equivalent to prospective member status. A prospective member cannot complete any membership requirements while on suspension. The time period for a suspension shall be fifteen (15) weeks after which time the previous membership status is reinstated.
         1. Expulsion: An expulsion is the highest and most severe level of disciplinary action. An expelled person is ejected from the club and club functions and current dues are returned. Previously completed membership requirements are null and void. A person expelled from the club shall not be allowed to restart the training program or regain any level of membership in the club.
     1. Procedure:
-        1. A member of any class may bring a compliant for disciplinary action to the president.
+        1. A member of any class may bring a complaint for disciplinary action to the president.
         1. The president shall convene the Executive Committee to evaluate the complaint.
         1. Upon review the Executive Committee shall bring the complaint to the club, within two regular meetings of the receipt of the complaint, with a recommendation for action.
-        1. The Executive COmmittee's recommendation shall constitute a motion.
+        1. The Executive Committee's recommendation shall constitute a motion.
         1. If the motion is to dismiss the complain, upon a "second" it may be voted on at the current meeting and requires 2/3 majority vote to pass.
         1. If the motion is for a level of disciplinary action, as defined above, upon a "second" the motion will be tabled until the next regular meeting.
         1. The accused shall be given notice of the tabled motion at least three (3) days in advance of the meeting in which the final vote is to be taken and shall be given ample opportunity to present a defense before the club.
         1. At the meeting following the tabled motion a discussion on the accused's infractions will occur. At the close of the discussion a secret ballot shall be taken to determine whether or not action will be taken on the disciplinary measure.
         1. A vote to take action must be passed by 2/3 majority of full members.
+
 # Officers
 1. The officers of the club shall be elected by ballot from candidates nominated from the floor. The order of the election shall be president, vice-president, treasurer and secretary. To be nominated, a member must meet the qualification of Article IV, Section 2 of the constitution. A separate ballot shall be voted for each office. A simple majority of the votes cast shall be necessary for election. In case there is no majority, the candidate with the lowest number of votes shall be dropped and a re-vote for the remaining candidates shall be taken. The election shall be held at the tenth regular meeting of the spring semester. A 2/3 vote of full members shall be necessary to invalidate the election.
 1. If the president and vice-president are absent during the summer, the president shall appoint a president pro tem from among the full members available.
