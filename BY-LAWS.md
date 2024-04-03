@@ -8,7 +8,7 @@ toc: true
 BY LAWS OF THE  
 VPI CAVE CLUB  
 STUDENT GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY  
-ADOPTED October 20, 2023
+ADOPTED March 29, 2024
 
 
 # Safety Code
@@ -140,7 +140,6 @@ Dues for prospective members, full members and associate members shall be ten do
     1. Submit a written report to the president upon request.
     1. Oversee maintenance and inventory of club rescue gear.
     1. The Safety and Techniques Committee shall consist of the safety chairman, the president, the vice-president, former safety chairmen, former presidents, and vice presidents, and anyone that the president or safety chairman deems necessary.
-
 1. It shall be the duty of the Publicity Committee to:
     1. Communicate with incoming freshman and the student body on the availability and activities of the club.
     1. Submit articles to the school newspaper, etc., on the club's activities.
@@ -167,6 +166,19 @@ Dues for prospective members, full members and associate members shall be ten do
     1. Preside over disciplinary proceedings.
     1. Act for  the club in emergency situations when it is not feasible for the club to meet.
     1. The Executive Committee shall consist of the officers, the head of the Safety and Techniques Committee and other person(s) appointed by the president.
+1. It shall be the duty of the Equipment Committee to:
+    1. Maintain an inventory of Club equipment.
+    1. Maintain the storage and dispersal access of Club equipment.
+        1. Club equipment shall be checked-out by dues-paid members as restricted in Article III.
+        1. Club equipment shall only be used to support Article II.
+    1. Establish an equipment check-out policy to include how long equipment may be checked-out and the required condition of equipment upon return.
+        1. Gear checked-out that does not conform to this policy, is grounds for a 21-day suspension from the privilege of accessing the Club equipment cache.
+        1. Club equipment not checked-in, or checked-in damaged from negligence, shall be replaced by the Member who checked out the equipment.
+    1. Maintain Club equipment in a safe condition, and quarantine equipment that is not in safe condition.
+        1. Quarantined equipment may be sold, gifted, repaired, or destroyed at the discretion of the Equipment Committee. All gear sale proceeds will return to the Club General Fund.
+    1. Maintain Club identification markings on all non-infrastructure Club equipment.
+    1. Identify equipment capability gaps for common Club activities.
+    1. Recommend the acquisition of new equipment when necessary.
 
 # Club Files
 1. Maintenance: The president shall appoint a person to keep and maintain the files.
