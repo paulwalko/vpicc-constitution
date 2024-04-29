@@ -4,10 +4,10 @@
 %
 \documentclass[
 ]{article}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -45,6 +45,9 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
 
 \title{CONSTITUTION}
 \author{}
@@ -62,7 +65,7 @@
 CONSTITUTION OF THE\\
 VPI CAVE CLUB\\
 STUDENT GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY\\
-ADOPTED January 26, 2024
+ADOPTED April 26, 2024
 
 \hypertarget{article-i-name}{%
 \section{Article I: Name}\label{article-i-name}}
@@ -277,5 +280,18 @@ in caving.
     full membership.
   \end{enumerate}
 \end{enumerate}
+
+\hypertarget{article-viii-dissolution}{%
+\section{Article VIII: Dissolution}\label{article-viii-dissolution}}
+
+Pending a ¾ or greater full membership vote in favor of dissolving, all
+assets remaining after meeting outstanding liabilities shall be assigned
+to the National Speleological Society. However, if the named recipient
+is not in existence or no longer is a qualified distributee, or
+unwilling or unable to accept the distribution, the assets of this
+organization shall be distributed to a fund, foundation, or corporation
+organized and operated exclusively for the purposes specified in Section
+501 (c) (7) of the Internal Revenue Code of 1954 (or corresponding
+provision of any future U. S. Internal Revenue Law).
 
 \end{document}

@@ -3,6 +3,11 @@ geometry: margin=2cm
 title: BY LAWS
 toc: true
 ---
+``` {=html}
+<style>
+body { min-width: 80% !important; }
+</style>
+```
 \newpage{}
 
 BY LAWS OF THE  

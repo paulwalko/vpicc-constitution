@@ -3,12 +3,17 @@ geometry: margin=2cm
 title: CONSTITUTION
 toc: true
 ---
+``` {=html}
+<style>
+body { min-width: 80% !important; }
+</style>
+```
 \newpage{}
 
 CONSTITUTION OF THE  
 VPI CAVE CLUB  
 STUDENT GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY  
-ADOPTED January 26, 2024
+ADOPTED April 26, 2024
 
 
 # Article I: Name
@@ -56,3 +61,6 @@ The purpose of this club shall be to promote interest in, and to advance the sci
     A.  If the motion is "seconded" it is automatically tabled.
     A.  The secretary must notify the members of the amendment in writing.
     A.  Final action shall be taken at the next meeting by a 2/3 vote of the full membership.
+
+# Article VIII: Dissolution
+Pending a ¾ or greater full membership vote in favor of dissolving, all assets remaining after meeting outstanding liabilities shall be assigned to the National Speleological Society. However, if the named recipient is not in existence or no longer is a qualified distributee, or unwilling or unable to accept the distribution, the assets of this organization shall be distributed to a fund, foundation, or corporation organized and operated exclusively for the purposes specified in Section 501 (c) (7) of the Internal Revenue Code of 1954 (or corresponding provision of any future U. S. Internal Revenue Law).
