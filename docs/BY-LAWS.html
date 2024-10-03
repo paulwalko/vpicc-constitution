@@ -7,9 +7,6 @@
   <title>BY LAWS</title>
   <style>
     html {
-      line-height: 1.5;
-      font-family: Georgia, serif;
-      font-size: 20px;
       color: #1a1a1a;
       background-color: #fdfdfd;
     }
@@ -28,13 +25,16 @@
     @media (max-width: 600px) {
       body {
         font-size: 0.9em;
-        padding: 1em;
+        padding: 12px;
       }
       h1 {
         font-size: 1.8em;
       }
     }
     @media print {
+      html {
+        background-color: white;
+      }
       body {
         background-color: transparent;
         color: black;
@@ -84,9 +84,10 @@
       color: #606060;
     }
     code {
-      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
       font-size: 85%;
       margin: 0;
+      hyphens: manual;
     }
     pre {
       margin: 1em 0;
@@ -148,10 +149,18 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 </head>
@@ -161,18 +170,21 @@
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
-<li><a href="#safety-code">Safety Code</a></li>
-<li><a href="#membership">Membership</a></li>
-<li><a href="#disciplinary-action">Disciplinary Action</a></li>
-<li><a href="#officers">Officers</a></li>
-<li><a href="#advisor">Advisor</a></li>
-<li><a href="#meeting-and-quorum">Meeting and Quorum</a></li>
-<li><a href="#dues">Dues</a></li>
-<li><a href="#committees">Committees</a></li>
-<li><a href="#club-files">Club Files</a></li>
-<li><a href="#club-trips">Club Trips</a></li>
-<li><a href="#club-savings">Club Savings</a></li>
-<li><a href="#club-publication">Club Publication</a></li>
+<li><a href="#safety-code" id="toc-safety-code">Safety Code</a></li>
+<li><a href="#membership" id="toc-membership">Membership</a></li>
+<li><a href="#disciplinary-action"
+id="toc-disciplinary-action">Disciplinary Action</a></li>
+<li><a href="#officers" id="toc-officers">Officers</a></li>
+<li><a href="#advisor" id="toc-advisor">Advisor</a></li>
+<li><a href="#meeting-and-quorum" id="toc-meeting-and-quorum">Meeting
+and Quorum</a></li>
+<li><a href="#dues" id="toc-dues">Dues</a></li>
+<li><a href="#committees" id="toc-committees">Committees</a></li>
+<li><a href="#club-files" id="toc-club-files">Club Files</a></li>
+<li><a href="#club-trips" id="toc-club-trips">Club Trips</a></li>
+<li><a href="#club-savings" id="toc-club-savings">Club Savings</a></li>
+<li><a href="#club-publication" id="toc-club-publication">Club
+Publication</a></li>
 </ul>
 </nav>
 <style>
@@ -181,7 +193,7 @@ body { min-width: 80% !important; }
 <p>BY LAWS OF THE<br />
 VPI CAVE CLUB<br />
 STUDENT GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY<br />
-ADOPTED March 29, 2024</p>
+ADOPTED September 27, 2024</p>
 <h1 id="safety-code">Safety Code</h1>
 <ol type="1">
 <li>General Safety:
@@ -284,6 +296,8 @@ lockoff), water knot, helical, prusik, double fisherman’s bend.</li>
 <li>Submit to the editor a suitable article for publication in the Tech
 Troglodyte allowing reasonable time for review and revision.</li>
 <li>Be approved by a 2/3 majority vote of the full membership.</li>
+<li>Demonstrate a working knowledge of passing a rebelay while ascending
+and descending.</li>
 </ol></li>
 </ol>
 <h1 id="disciplinary-action">Disciplinary Action</h1>

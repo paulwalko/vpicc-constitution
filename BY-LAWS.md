@@ -13,7 +13,7 @@ body { min-width: 80% !important; }
 BY LAWS OF THE  
 VPI CAVE CLUB  
 STUDENT GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY  
-ADOPTED March 29, 2024
+ADOPTED September 27, 2024
 
 
 # Safety Code
@@ -55,6 +55,7 @@ ADOPTED March 29, 2024
     A.  Demonstrate a working knowledge of belaying methods.
     A.  Be able to tie a seat harness with webbing.
     A.  Demonstrate a working knowledge of changeover from descending to ascending and ascending to descending.
+    A.  Demonstrate a working knowledge of passing a rebelay while ascending and descending.
     A.  Demonstrate a working knowledge of rappelling and climbing rope in a cave.
     A.  Demonstrate how to rig and pad a rope correctly.
     A.  Know how to tie (demonstrate the lock off and back off where appropriate) and explain the uses of: bowline, bowline on a bight, bowline on a coil, figure 8, figure 8 on a bight, double figure 8, alpine butterfly, square knot, overhand knot, Münter hitch (and lockoff), water knot, helical, prusik, double fisherman's bend.
