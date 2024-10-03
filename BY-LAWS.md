@@ -13,7 +13,7 @@ body { min-width: 80% !important; }
 BY LAWS OF THE  
 VPI CAVE CLUB  
 STUDENT GROTTO OF THE NATIONAL SPELEOLOGICAL SOCIETY  
-ADOPTED March 29, 2024
+ADOPTED September 27, 2024
 
 
 # Safety Code
@@ -62,6 +62,7 @@ ADOPTED March 29, 2024
     A.  Be endorsed by a full or associate member in good standing.
     A.  Submit to the editor a suitable article for publication in the Tech Troglodyte allowing reasonable time for review and revision.
     A.  Be approved by a 2/3 majority vote of the full membership.
+    A.  Demonstrate a working knowledge of passing a rebelay while ascending and descending.
 
 # Disciplinary Action
 1.  Any prospective, associate, or full member who has allegedly committed an infraction of the VPI Cave Club Constitution, or by-laws, or upon recommendation of the Safety and Techniques Committee, may face possible disciplinary action in the form of a reprimand, suspension, or expulsion, as defined below.
