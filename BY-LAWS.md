@@ -150,7 +150,7 @@ Dues for prospective members, full members and associate members shall be ten do
     A.  Communicate with incoming freshman and the student body on the availability and activities of the club.
     A.  Submit articles to the school newspaper, etc., on the club's activities.
     A.  Publicize any activities which may be open to other groups.
-    Submit to the files such material that may be printed by or about the club.
+    A.  Submit to the files such material that may be printed by or about the club.
     A.  Submit a written report to the president upon request.
 1.  It shall be the duty of the Conservation Committee to:
     A.  The chairman of the conservation committee shall be a member of the National Conservation Committee of the NSS.
@@ -164,7 +164,7 @@ Dues for prospective members, full members and associate members shall be ten do
     A.  Plan and make arrangements for programs to be presented periodically at the regular meetings.
     A.  Submit a written report to the president upon request.
 1.  It shall be the duty of the Supplies Committee to:
-    A.  Buy equipment for sale to the club members and prospective members out of a special revolving fund established for this purpose.
+    A.  Buy equipment for the club store for sale to the club members and prospective members out of a special revolving fund established for this purpose.
     A.  Make equipment available for sale at all meetings to all dues paying individuals.
     A.  The fund shall be increased by semesterly appropriations until such time that it becomes self-sustaining. The fund shall be allowed to draw upon the club treasury in the form of loans when additional funds become necessary.
     A.  Keep an accurate and up-to-date record of the finances of the club store, including giving a financial status report within one week of a request from the treasurer, and submitting a complete report of the store's activities to the treasurer at the end of the fall and spring semesters.
